@@ -1,1 +1,1 @@
-# GarminWatchFace
+# Garmin Watch Face

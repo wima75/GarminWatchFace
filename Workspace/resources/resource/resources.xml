@@ -1,0 +1,61 @@
+<resources>
+    <fonts>
+    </fonts>
+    <bitmaps>
+        <bitmap id="background" filename="images/garmin.png">
+ 			<palette disableTransparency="false">
+	            <color>FFFFFF</color>
+	            <color>AAAAAA</color>
+	            <color>555555</color>
+	            <color>000000</color>
+	            <color>FFAA00</color>
+	            <color>00AAFF</color>
+        	</palette>
+        </bitmap>
+        <bitmap id="tage" filename="images/tage.png">
+ 			<palette disableTransparency="true">
+	            <color>FFFFFF</color>
+	            <color>000000</color>
+        	</palette>
+        </bitmap>
+        <bitmap id="wochentage" filename="images/wochentage.png">
+ 			<palette disableTransparency="true">
+	            <color>FFFFFF</color>
+	            <color>000000</color>
+        	</palette>
+        </bitmap>
+        <bitmap id="bluetooth" filename="images/bluetooth.png">
+ 			<palette disableTransparency="false">
+	            <color>FFFFFF</color>
+	            <color>00AAFF</color>
+        	</palette>
+        </bitmap>
+        <bitmap id="alarm" filename="images/alarm.png">
+ 			<palette disableTransparency="true">
+	            <color>FFFFFF</color>
+	            <color>000000</color>
+        	</palette>
+        </bitmap>
+        <bitmap id="notification" filename="images/notification.png">
+ 			<palette disableTransparency="true">
+	            <color>FFFFFF</color>
+	            <color>000000</color>
+        	</palette>
+        </bitmap>
+        <bitmap id="sleep" filename="images/sleep.png">
+ 			<palette disableTransparency="true">
+	            <color>FFFFFF</color>
+	            <color>000000</color>
+        	</palette>
+        </bitmap>
+        
+        <bitmap id="monde" filename="images/monde.png" >
+ 			<palette disableTransparency="true">
+	            <color>FFFFFF</color>
+	            <color>AAAAAA</color>
+	            <color>555555</color>
+	            <color>000000</color>
+        	</palette>
+        </bitmap>
+    </bitmaps>
+</resources>
